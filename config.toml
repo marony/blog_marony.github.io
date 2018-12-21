@@ -1,0 +1,29 @@
+title = "undefined"
+author = "marony"
+baseURL = "http://marony.github.io/"
+languageCode = "ja"
+googleAnalytics = "UA-26291525-2"
+theme = "hugo-uno"
+hasCJKLanguage = true
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[indexes]
+   category = "categories"
+   tag = "tags"
+
+ [Params]
+   AuthorName = "marony"
+   github = "marony"
+#   bitbucket = "floch"
+#   flickr = "senjin"
+   twitter = "_marony"
+   email = "marony@binbo-kodakusan.com"
+#   description = ""
+#   cv = "/pages/cv"
+#   legalnotice = "/pages/legal-notice"
+#   muut = "fredrikloch"
+#   linkedin = "fredrikloch"
+   cover = "/images/background-cover.jpg"
+   logo = "/images/undefined_logo.png"

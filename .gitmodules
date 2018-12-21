@@ -1,0 +1,13 @@
+[submodule "themes/w3-simple"]
+	path = themes/w3-simple
+	url = https://github.com/jesselau76/hugo-w3-simple.git
+[submodule "themes/hugo-uno"]
+	path = themes/hugo-uno
+	url = https://github.com/SenjinDarashiva/hugo-uno.git
+[submodule "public"]
+	path = public
+	url = git@github.com:marony/marony.github.com.git
+	branch = master
+[submodule "themes/hugo-theme-learn"]
+	path = themes/hugo-theme-learn
+	url = https://github.com/matcornic/hugo-theme-learn.git
