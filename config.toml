@@ -6,6 +6,9 @@ googleAnalytics = "UA-26291525-2"
 theme = "hugo-uno"
 hasCJKLanguage = true
 
+pygmentscodefences = true
+pygmentsstyle = "monokai"
+
 [permalinks]
   post = "/:year/:month/:day/:slug"
 

@@ -1,18 +1,26 @@
 ---
-title: "marony's profile"
+title: "profile"
 date: 2018-12-20T09:29:42+09:00
 draft: false
+aliases:
+categories:
+tags:
+comments: false
+description: ""
+keywords:
+isCJKLanguage: true
 ---
+## 人種
 
-## どんな人
+C#プログラマ@東京
 
-C#プログラマ@東京  
+## 構成要素
 
 {{% chart id="profileChart" width="860" height="400" js="../../js/chartData.js" %}}
 
-* [Twitter](https://twitter.com/_marony)  
-* [GitHub](https://github.com/marony)  
-* [SoundCloud](https://soundcloud.com/marony0607/)  
+* [Twitter](https://twitter.com/_marony)
+* [GitHub](https://github.com/marony)
+* [SoundCloud](https://soundcloud.com/marony0607/)
 
 ## その他
 
