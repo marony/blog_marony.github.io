@@ -19,8 +19,10 @@ C#プログラマ@東京
 {{% chart id="profileChart" width="860" height="400" js="../../js/chartData.js" %}}
 
 * [Twitter](https://twitter.com/_marony)
+{{< twitter_follow >}}
 * [GitHub](https://github.com/marony)
 * [SoundCloud](https://soundcloud.com/marony0607/)
+{{< soundcloud >}}
 
 ## その他
 
