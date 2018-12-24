@@ -25,7 +25,7 @@ C#プログラマ@東京
 ## その他
 
 * [Scalaでディスク容量表示アプリ](https://github.com/marony/diskreport)
-* [Katamino(カタミノ)解いてる](https://github.com/marony/diskreport)
+* [Katamino(カタミノ)解いてる](https://github.com/marony/katamino-solver)
 * [VSCodeのネタ機能拡張作ったり](https://github.com/marony/fix-const)
 * [モンハンXX攻略アプリ](https://github.com/marony/monhanxx)
 * [TensorFlowでFizzBuzz](https://github.com/marony/youtuber)
