@@ -5,7 +5,7 @@ draft: false
 aliases:
 categories:
 tags:
-comments: false
+comments: true
 description: ""
 keywords:
 isCJKLanguage: true

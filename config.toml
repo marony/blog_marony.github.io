@@ -2,7 +2,11 @@ title = "undefined"
 author = "marony"
 baseURL = "http://marony.github.io/"
 languageCode = "ja"
+
+# Google Analytics
+# {{ template "_internal/google_analytics_async.html" . }}
 googleAnalytics = "UA-26291525-2"
+
 theme = "hugo-uno"
 hasCJKLanguage = true
 
@@ -27,6 +31,7 @@ pygmentsstyle = "monokai"
 #   cv = "/pages/cv"
 #   legalnotice = "/pages/legal-notice"
 #   muut = "fredrikloch"
+   disqus = "marony-untitled"
 #   linkedin = "fredrikloch"
    cover = "/images/background-cover.jpg"
    logo = "/images/undefined_logo.png"
