@@ -24,7 +24,7 @@ C#プログラマ@東京
 * [SoundCloud](https://soundcloud.com/marony0607/)
 {{< soundcloud >}}
 
-## その他
+## GitHubリポジトリ
 
 * [Scalaでディスク容量表示アプリ](https://github.com/marony/diskreport)
 * [Katamino(カタミノ)解いてる](https://github.com/marony/katamino-solver)
