@@ -13,8 +13,8 @@ hasCJKLanguage = true
 pygmentscodefences = true
 pygmentsstyle = "monokai"
 
-[permalinks]
-  post = "/:year/:month/:day/:slug"
+#[permalinks]
+#  post = "/:year/:month/:day/:slug"
 
 [indexes]
    category = "categories"
