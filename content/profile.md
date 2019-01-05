@@ -46,3 +46,9 @@ C#プログラマ@東京
 * [Scalaで3D表示してみたり…](https://github.com/marony/scala3d_wireframe)
 * [C++で3D表示してみたり](https://github.com/marony/cpp3d)
 * [Rustで3D表示してみたり](https://github.com/marony/rust3d)
+
+![](/images/profile/1464560511355.jpg)
+
+![](/images/profile/IMG_20160922_172626.jpg)
+
+![](/images/profile/P_20180116_200111_vHDR_On.jpg)
