@@ -18,6 +18,7 @@ C#プログラマ@東京
 
 {{% chart id="profileChart" width="860" height="400" js="../../js/chartData.js" %}}
 
+* [欲しい物リスト](http://amzn.asia/9FISHMC)
 * [Twitter](https://twitter.com/_marony)
 {{< twitter_follow >}}
 * [GitHub](https://github.com/marony)
