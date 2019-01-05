@@ -1,6 +1,6 @@
 ---
 title: "profile"
-date: 2018-12-20T09:29:42+09:00
+date: 2019-01-05T09:29:42+09:00
 draft: false
 aliases:
 categories:
@@ -27,6 +27,7 @@ C#プログラマ@東京
 
 ## GitHubリポジトリ
 
+* [JavaScriptでPIを計算するよ](https://github.com/marony/pi_js)
 * [processingでライフゲーム](https://marony.github.io/lifegame_pde/)
 * [Scalaでディスク容量表示アプリ](https://github.com/marony/diskreport)
 * [Katamino(カタミノ)解いてる](https://github.com/marony/katamino-solver)
