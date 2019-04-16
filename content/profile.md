@@ -21,9 +21,8 @@ C#プログラマ@東京
 * [欲しい物リスト](http://amzn.asia/9FISHMC)
 * [Twitter](https://twitter.com/_marony)
 {{< twitter_follow >}}
-* [GitHub](https://github.com/marony)
-* [SoundCloud](https://soundcloud.com/marony0607/)
-{{< soundcloud >}}
+* コード [GitHub](https://github.com/marony)
+* 作曲 [SoundCloud](https://soundcloud.com/marony0607/)
 
 ## GitHubリポジトリ
 
@@ -46,6 +45,12 @@ C#プログラマ@東京
 * [Scalaで3D表示してみたり…](https://github.com/marony/scala3d_wireframe)
 * [C++で3D表示してみたり](https://github.com/marony/cpp3d)
 * [Rustで3D表示してみたり](https://github.com/marony/rust3d)
+
+## 作曲とか
+
+{{< soundcloud >}}
+
+{{< youtube >}}
 
 ## 思い出の写真
 
