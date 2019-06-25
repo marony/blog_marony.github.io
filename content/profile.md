@@ -26,6 +26,8 @@ C#プログラマ@東京
 
 ## GitHubリポジトリ
 
+* [Go + Dropboxでリモートコマンド実行](https://github.com/marony/goropbox)
+* [Scalaで強化学習で迷路](https://github.com/marony/rl-maze)
 * [JavaScriptでPIを計算するよ](https://github.com/marony/pi_js)
 * [processingでライフゲーム](https://marony.github.io/lifegame_pde/)
 * [Scalaでディスク容量表示アプリ](https://github.com/marony/diskreport)
