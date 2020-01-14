@@ -20,7 +20,7 @@ pygmentsstyle = "monokai"
    category = "categories"
    tag = "tags"
 
- [Params]
+[Params]
    AuthorName = "marony"
    github = "marony"
 #   bitbucket = "floch"
@@ -35,3 +35,7 @@ pygmentsstyle = "monokai"
 #   linkedin = "fredrikloch"
    cover = "/images/background-cover.jpg"
    logo = "/images/undefined_logo.png"
+
+[markup.goldmark.renderer]
+   unsafe = true
+

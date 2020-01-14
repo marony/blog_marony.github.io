@@ -16,7 +16,7 @@ C#プログラマ@東京
 
 ## 構成要素
 
-{{% chart id="profileChart" width="860" height="400" js="../../js/chartData.js" %}}
+{{< chart id="profileChart" width="860" height="400" js="../../js/chartData.js" >}}
 
 * [欲しい物リスト](http://amzn.asia/9FISHMC)
 * [Twitter](https://twitter.com/_marony)
@@ -48,7 +48,7 @@ C#プログラマ@東京
 * [C++で3D表示してみたり](https://github.com/marony/cpp3d)
 * [Rustで3D表示してみたり](https://github.com/marony/rust3d)
 
-## 作曲とか
+## 作曲とかドローン(DJI Mavic Mini)とか
 
 {{< soundcloud >}}
 
